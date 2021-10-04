@@ -114,6 +114,9 @@ button:active {
     .quote-text {
         font-size: 2rem;
     }
+    .quote-author{
+        font-size: 1.7rem;
+    }
 
 }
 
